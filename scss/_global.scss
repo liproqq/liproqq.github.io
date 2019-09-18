@@ -10,6 +10,10 @@ html {
   color: fade-out($white, .25);
 }
 
+.text-shadow-black{
+  text-shadow: 2px 2px 5px #000000;
+}
+
 // Custom horizontal rules
 hr.divider {
   max-width: 3.25rem;
